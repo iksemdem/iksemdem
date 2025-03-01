@@ -8,5 +8,5 @@
 - **Patching** using **Harmony**
 - Advanced **EXILED** development
 
-### Contact me
-**Discord:** xert049 - *Feel free to DM me!*
+## Contact me
+**Discord:** xert049 - Feel free to DM me!
